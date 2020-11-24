@@ -1,10 +1,11 @@
-
-新版本已出，强烈推荐：https://github.com/zhangdaiscott/jeecg-boot
-
+修正两个大BUG<br><br>
+1、在线开发中主从表结构，从表数据不能全部删除问题。<br>
+2、在线开发中主从表结构，从表数据删除错乱问题。<br><br>
+源码及解决方案请付小费每个BUG 100元，付费时请备注邮箱地址及bug1或bug2<br>
 ======================================================================================
-
-
-![JEECG](https://static.oschina.net/uploads/img/201905/24184932_ak9D.png "Jeecg快速开发平台")
+<p>
+<img src="https://user-images.githubusercontent.com/11987463/99932114-0eb2b500-2d92-11eb-88cb-8d8e4054a6c9.jpg" width="200" height="200" alt=支付宝二维码"/>
+</p>
 
 JEECG 微云快速开发平台
 ===============
